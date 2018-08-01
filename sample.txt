@@ -1,0 +1,6 @@
+What is the Capital of India?/NewDelhi
+What is the capital of Uttar Pradesh?/Lucknow
+What is the capital of Uttarakhand?/Dehradun
+What is the capital of Madhya Pradesh?/Bhopal
+What is the capital of Bihar?/Patna
+What is the capital of Tamil Nadu?/Chennai
